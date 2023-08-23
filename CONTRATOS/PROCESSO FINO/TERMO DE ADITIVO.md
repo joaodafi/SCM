@@ -7,15 +7,15 @@
   - 06.05.80.03 Aditivos - Prorrogações - Complementos Contratuais
     - Termo
       - [ ] Tipo de Documento e Tipo de Termo
-      - [ ] Titulo
+      - [ ] Titulo = ADITIVO
       - [ ] Datas (Colocar dasta presente no termo)
       - [ ] Contrato (Buscar por numero de contrato)
       - [ ] Vigencia / Fornecedor (Buscar por CNPJ)
       - [ ] Garantias
     - Observação
-      - [ ] Justificativa
+      - [ ] Justificativa = ADITIVO
     - Dotação de Termos -> Propriedades
-      - [ ] Verificar nota de dotação
+      - [ ] Verificar **NOTA DE EMPENHO**
       - [ ] Adicionar (Valor e Modalidade)
 - [ ] Lançar na AUDESP
   - Pesquisar -> Destalhes
