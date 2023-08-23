@@ -9,4 +9,3 @@
 - [ ] Publicação SITE ADMIN
 - [ ] enviar Contrato datado por email para empresa, com copia para Fiscalizadores (juntar email no processo)
 - [ ] Enviar volume de contrato para ciência de fiscalizadores (com TCN para assinatura)
-  - [ ] teste
