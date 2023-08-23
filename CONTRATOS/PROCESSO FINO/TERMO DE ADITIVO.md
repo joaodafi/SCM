@@ -27,5 +27,7 @@
 - [ ] Atualizar planilha da rede
 - [ ] Publicação no Jornal do Municipio
 - [ ] Publicação SITE ADMIN (Somente apos publicação no JM)
-- [ ] Enviar contrato datado por email para empresa, com copia para Fiscalizadores (juntar email no processo)
+- [ ] Enviar contrato datado por email
+      Contratada; fiscalizadores; DMMHF; SCM
+  - [ ] (juntar email no processo)
 - [ ] Enviar via da contratada pelo correio
