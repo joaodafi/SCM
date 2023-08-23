@@ -1,0 +1,12 @@
+- [ ] Convocar empresa para assinatura (Solicitar Declarações)
+- [ ] Fazer protocolo de retirada
+- [ ] Datar termo e TNC
+- [ ] Salvar contrato na pasta da CPL
+- [ ] Lançar no SIM
+- [ ] Lançar na AUDESP
+- [ ] Atualizar planilha da rede
+- [ ] Publicação no Jornal do Municipio
+- [ ] Publicação SITE ADMIN
+- [ ] enviar Contrato datado por email para empresa, com copia para Fiscalizadores (juntar email no processo)
+- [ ] Enviar volume de contrato para ciência de fiscalizadores (com TCN para assinatura)
+  - [ ] teste
