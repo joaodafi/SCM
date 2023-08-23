@@ -22,8 +22,8 @@
   - Autorização -> Ajustes da Licitação
   - - Localizar o Instrumento, contrato, correto -> 🔎
   - Termos Aditivos do Ajuste -> Inserir Termo Aditivo
-    > Para ter uma melhor ideia busque o relatorio apos a **NOTA DE EMPENHO** no **CPL**
-    > A Justificativa normalmente é lista lá.  
+    > Para ter uma melhor ideia busque o relatorio apos a **NOTA DE EMPENHO** no **CPL**.
+    >> A folha da **Justificativa** normalmente é listada lá.  
 - [ ] Atualizar planilha da rede
 - [ ] Publicação no Jornal do Municipio
 - [ ] Publicação SITE ADMIN (Somente apos publicação no JM)
