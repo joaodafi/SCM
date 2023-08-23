@@ -1,7 +1,7 @@
 ### Liberação de Contratos
 
-- [ ] Comvocar empresa para assinatura (Solicitar Declarações)
-- [ ] Fazer protocola de retirada
+- [ ] Convocar empresa para assinatura (Solicitar Declarações)
+- [ ] Fazer protocolo de retirada
 - [ ] Datar contrato e TNC
 - [ ] Salvar declaração na pasta CAMARA ENTRADA
 - [ ] Salvar contrato na pasta da CPL
