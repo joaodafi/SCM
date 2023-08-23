@@ -13,7 +13,7 @@
       - [ ] Vigencia / Fornecedor (Buscar por CNPJ)
       - [ ] Garantias
     - Observação
-      - [] Justificativa
+      - [ ] Justificativa
     - Dotação de Termos -> Propriedades
       - [ ] Verificar nota de dotação
       - [ ] Adicionar (Valor e Modalidade)
