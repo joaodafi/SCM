@@ -15,4 +15,5 @@
 	- [ ] Abrir colume de contrato
  		- [ ] Processo no SIM **WIP**
 		- [ ] Termo de Abertura
-- [ ] 
+- [ ] Publicação no Jornal do Municipio
+- [ ] Publicação SITE ADMIN (Somente apos publicação no JM)
