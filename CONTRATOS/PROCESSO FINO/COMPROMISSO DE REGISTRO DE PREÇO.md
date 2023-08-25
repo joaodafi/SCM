@@ -17,3 +17,7 @@
 		- [ ] Termo de Abertura
 - [ ] Publicação no Jornal do Municipio
 - [ ] Publicação SITE ADMIN (Somente apos publicação no JM)
+- [ ] Enviar contrato datado por email
+      Contratada; fiscalizadores; DMMHF; SCM
+  - [ ] (juntar email no processo)
+- [ ] Enviar via da contratada pelo correio
