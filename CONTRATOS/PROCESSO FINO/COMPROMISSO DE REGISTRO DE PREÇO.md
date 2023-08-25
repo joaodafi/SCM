@@ -7,5 +7,12 @@
 - [ ] Salvar contrato na pasta do CPL
 - [ ] Juntar: fl. de autorização, declarações de atualização cadastral do TCESP, cópia do contrato ao volume de licitação.
 - [ ] Lanças contrato no SIM
-      - [ ] Gerar Contrato WIP
-      - [ ] Verificar Dotação zerada
+	- [ ] Gerar Contrato **WIP**
+      - [ ] Verificar dotação zerada
+		> Na ultima pg. do  contrato
+- [ ] Abrir volume de contrato
+	- [ ] Fechar volume de licitação com termo
+	- [ ] Abrir colume de contrato
+ 		- [ ] Processo no SIM **WIP**
+		- [ ] Termo de Abertura
+- [ ] 
