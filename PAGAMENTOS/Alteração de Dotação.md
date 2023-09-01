@@ -14,4 +14,5 @@ ABA - Observação
   - [ ] Justificativa = DOTAÇÃO
 
 ABA - Dotação de termos
-  - [ ] Propriedades - Procurar por **Fonte** e verificar institucional e programa de trabalho 
+  - [ ] Propriedades - Procurar por **Fonte** e verificar institucional e programa de trabalho
+    - [ ] Selecionar, incluir valor, crédito e adicionar
