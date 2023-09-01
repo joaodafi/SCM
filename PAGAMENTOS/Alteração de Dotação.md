@@ -8,7 +8,9 @@ ABA - Termo
   - [ ] Contrato = Buscar
   - [ ] Vigencia/fornecedor = Buscar com o CNPJ
   - [ ] Garantias = Não
+
 ABA - Observação
   - [ ] Justificativa = DOTAÇÃO
+
 ABA - Dotação de termos
   - [ ] Propriedades - Procurar por **Fonte** e verificar institucional e programa de trabalho 
