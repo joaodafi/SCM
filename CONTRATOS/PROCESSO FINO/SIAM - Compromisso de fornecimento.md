@@ -12,7 +12,15 @@
 - [ ] Abrir volume de contrato
 	- [ ] Fechar volume de licitação com termo
 	- [ ] Abrir colume de contrato
- 		- [ ] Processo no SIM **WIP**
+ 		- [ ] Processo no SIM - 03.15
+      - [ ] Novo -> Tipode Documento -> 🔍 -> Meio/Procurar -> Volume de processo de licitação
+        > Numero e data de criação
+      - [ ] Tipo de precedencia -> Unidade Administrativa / Codigo estruturado -> 🔍 -> Sigla
+      - [ ] Tipo do interessado -> Fornecedor / CNPJ -> 🔍
+      - [ ] Codigo do assunto -> 🔍
+        > Objeto do contrato\\ SIAM xxx.xxxx
+    - [ ] Imprimir etiqueta
+    - [ ] Imprimir rótulo
 		- [ ] Termo de Abertura
 - [ ] Publicação no Jornal do Municipio
 - [ ] Publicação SITE ADMIN (Somente apos publicação no JM)
