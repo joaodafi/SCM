@@ -19,6 +19,7 @@
       - [ ] Tipo do interessado -> Fornecedor / CNPJ -> 🔍
       - [ ] Codigo do assunto -> 🔍
         > Objeto do contrato\\ SIAM xxx.xxxx
+      - [ ] Tramitar
     - [ ] Imprimir etiqueta
     - [ ] Imprimir rótulo
 		- [ ] Termo de Abertura
