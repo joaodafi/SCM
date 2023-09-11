@@ -20,4 +20,4 @@ ABA - Orçamento
   - [ ] Funcional Programatica -> 🔎 -> Descrição da Ação, Meio, 🔎 -> verificar o codigo estruturado com a Classificação.programa de trabalho
   - [ ] Ação de Unidade Gestora -> 🔎 -> Descrição da Ação, Meio, 🔎
   - [ ] Classificação da Despesa -> 🔎 -> Classificação da despesa, Meio, 🔎 -> verificar o código estruturado com a Classificação.Natureza da Despesa
-        
+  - [ ] Fonte + UO 🔎 -> Meio. 🔎 -> verificar fonte de recurso com Classificação.fonte
