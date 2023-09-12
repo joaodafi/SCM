@@ -1,6 +1,9 @@
 ### Lançamento de empanho
 #### APlicação 04.03.02.17 - Solicitação de Empenho - Direto Setor de Contabilidade
 
+Fazer o Calculo de como dividir os itens 
+> uma ciencia a parte que pode ser ignorada ligando para o fiscalizador para ele se virar em como os itens devem ser divididos por empenho.
+
 Novo
 ABA - Principal
   - [ ] Ano do Empenho
@@ -21,3 +24,8 @@ ABA - Orçamento
   - [ ] Ação de Unidade Gestora -> 🔎 -> Descrição da Ação, Meio, 🔎
   - [ ] Classificação da Despesa -> 🔎 -> Classificação da despesa, Meio, 🔎 -> verificar o código estruturado com a Classificação.Natureza da Despesa
   - [ ] Fonte + UO 🔎 -> Meio. 🔎 -> verificar fonte de recurso com Classificação.fonte
+
+ABA - Itens Contrato
+  - [ ] Desativar Calculo Automatico
+  - [ ] Selecionar item em Item Contrato a Empenhar
+  - [ ] Quantidade e Valor Total item -> Adicionar
