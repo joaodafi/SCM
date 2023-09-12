@@ -29,3 +29,10 @@ ABA - Itens Contrato
   - [ ] Desativar Calculo Automatico
   - [ ] Selecionar item em Item Contrato a Empenhar
   - [ ] Quantidade e Valor Total item -> Adicionar
+
+ABA - Parcelas
+  - [ ] Selecionar parcela em Parcelas Contratos a Empenhar
+  - [ ] Valor Ocorrencia Parcela -> Parcela
+
+Finalmente Tramitar
+  - [ ] Adicionar data do empenho apos tramitar
