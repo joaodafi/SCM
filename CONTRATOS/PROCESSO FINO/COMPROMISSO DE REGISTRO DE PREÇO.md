@@ -10,6 +10,7 @@
 	- [ ] Gerar Contrato **WIP**
       - [ ] Verificar dotação zerada
 		> Na ultima pg. do  contrato
+- [ ] Lançar na AUDESP
 - [ ] Abrir volume de contrato
 	- [ ] Fechar volume de licitação com termo
 	- [ ] Abrir colume de contrato
