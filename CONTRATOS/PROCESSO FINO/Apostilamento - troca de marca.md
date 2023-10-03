@@ -1,0 +1,5 @@
+- [ ] Datar
+- [ ] Salvar na Pasta da CPL
+- [ ] Publicar no ADMIN
+- [ ] Enviar Email para contratada, fiscalizadores e seção
+- [ ] juntar o apostilamento e as publicações
