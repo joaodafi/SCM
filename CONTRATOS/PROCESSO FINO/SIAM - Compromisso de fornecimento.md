@@ -1,4 +1,4 @@
-### Compromisso -> Fornecimento
+### Compromisso/Carta Contrato -> Fornecimento
 - [ ] Convocar empresa para assinatura (solicitar declarações)
 - [ ] Fazer protocolo de retirada
 - [ ] Datar contrato e TNC
@@ -6,9 +6,6 @@
 	> Declaração de atendimento à lei Municipal lei 11.730, de 8 de junho de 2018
 - [ ] Salvar contrato na pasta do CPL
 - [ ] Juntar: fl. de autorização, declarações de atualização cadastral do TCESP, cópia do contrato ao volume de licitação.
-- [ ] Lanças contrato no SIAM
-	- [ ] 2->4->1->2
-      - [ ] **WIP**
 - [ ] Abrir volume de contrato
 	- [ ] Fechar volume de licitação com termo
 	- [ ] Abrir colume de contrato
@@ -25,6 +22,8 @@
 		- [ ] Termo de Abertura
 - [ ] Publicação no Jornal do Municipio
 - [ ] Publicação SITE ADMIN (Somente apos publicação no JM)
+- [ ] Subir no SIAM
+	- [ ] **WIP**
 - [ ] Enviar contrato datado por email
       Contratada; fiscalizadores; DMMHF; SCM
   - [ ] (juntar email no processo)
