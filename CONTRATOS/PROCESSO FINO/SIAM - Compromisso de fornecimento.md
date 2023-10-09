@@ -7,6 +7,7 @@
 - [ ] Salvar contrato na pasta do CPL
 - [ ] Juntar: fl. de autorização, declarações de atualização cadastral do TCESP, cópia do contrato ao volume de licitação.
 - [ ] Abrir volume de contrato
+      >Se tiver mais de uma empresa
 	- [ ] Fechar volume de licitação com termo
 	- [ ] Abrir colume de contrato
  		- [ ] Processo no SIM - 03.15
