@@ -7,7 +7,12 @@
 - [ ] Salvar contrato na pasta do CPL
 - [ ] Juntar: fl. de autorização, declarações de atualização cadastral do TCESP, cópia do contrato ao volume de licitação.
 - [ ] Lançar no SIAM
-	- [ ] **WIP**
+	- [ ] 2-4-1-2
+		- [ ] Selecionar modalidade > ENTER
+		- [ ] Data Celebrada > data da assinatura
+        	- [ ] Indice de reajuste > ponto (.)
+		- [ ] Distribuir estimado > SIM
+		- [ ] Numero do contrato
 - [ ] Abrir volume de contrato
 	>Se tiver mais de uma empresa
 	- [ ] Fechar volume de licitação com termo
