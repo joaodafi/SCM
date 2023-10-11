@@ -1,4 +1,4 @@
-### Compromisso/Carta Contrato -> Fornecimento
+### Compromisso/Aquisição
 - [ ] Convocar empresa para assinatura (solicitar declarações)
 - [ ] Fazer protocolo de retirada
 - [ ] Datar contrato e TNC
@@ -31,7 +31,16 @@
 - [ ] Publicação no Jornal do Municipio
 - [ ] Publicação SITE ADMIN (Somente apos publicação no JM)
 - [ ] Publicar no SIAM
-	- [ ] **WIP**
+	- WinSCP
+		- [ ] home/conan/dats/pref/siamtxt/editais
+		- [ ] Move files (sem acentos, hifen, cedilha, parentesis, maiuscula)(espaço pode)
+	- SIAM
+	  	- [ ] 7 - 1
+			- Modalidade > n° e ano
+			- f4
+			- f7
+			- espaço para marcar e f7 para incluir
+			- [ ] tirar print da tela
 - [ ] Enviar contrato datado por email
       Contratada; fiscalizadores; DMMHF; SCM
   - [ ] (juntar email no processo)
