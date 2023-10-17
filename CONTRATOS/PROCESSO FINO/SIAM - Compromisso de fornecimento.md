@@ -37,8 +37,8 @@
 	- SIAM
 	  	- [ ] 7 - 1
 			- Modalidade > n° e ano
-			- f4
-			- f7
+			- f4 na lista de processos
+			- f7 para incluir
 			- espaço para marcar e f7 para incluir
 			- [ ] tirar print da tela
 - [ ] Enviar contrato datado por email
