@@ -7,9 +7,20 @@
 - [ ] Salvar contrato na pasta do CPL
 - [ ] Juntar: fl. de autorização, declarações de atualização cadastral do TCESP, cópia do contrato ao volume de licitação.
 - [ ] Lanças contrato no SIM
-	- [ ] Gerar Contrato **WIP**
-      - [ ] Verificar dotação zerada
-		> Na ultima pg. do  contrato
+	- Buscar contrato na caixa postal
+	- Abrir -> Alterar -> ABA: contrato
+		- [ ] Data da Assinatura = Hoje
+		- [ ] Ordem de inicio = Não
+		- [ ] data de inicio e fim
+	- ABA: garantias
+		- [ ] Garantias = Não se Aplica
+		- [ ] Penalidades = Das Multas e Sanções
+	- ABA: texto
+		- [ ] Clausula financeira = Das Condições de Paagamento
+	- [ ] SALVAR E TRAMITAR
+	- [ ] ABRIR E TRAMITAR PARA O APOIO
+	- [ ] ABRIR, UNIDADE ADMINISTRATIVA = SIGLA
+	- [ ] SALVAR E TRAMITAR
 - [ ] Lançar na AUDESP
 - [ ] Abrir volume de contrato
 	- [ ] Fechar volume de licitação com termo
