@@ -21,7 +21,7 @@
 	- [ ] ABRIR E TRAMITAR PARA O APOIO
 	- [ ] ABRIR, UNIDADE ADMINISTRATIVA = SIGLA
 	- [ ] SALVAR E TRAMITAR
-- [ ] Lançar na AUDESP
+- Lançar na AUDESP - Nocaso de compromissos, só se lança os empenhos.
 - [ ] Abrir volume de contrato
 	- [ ] Fechar volume de licitação com termo
 	- [ ] Abrir colume de contrato
