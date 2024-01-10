@@ -12,23 +12,14 @@
 	- [ ] 7-2-3-2-1
 - [ ] Abrir volume de contrato
 	>Se tiver mais de uma empresa
-	- [ ] Fechar volume de licitação com termo
-	- [ ] Abrir colume de contrato
- 		- [ ] Processo no SIM - 03.15
-      - [ ] Novo -> Tipode Documento -> 🔍 -> Meio/Procurar -> Volume de processo de licitação
-        > Numero e data de criação
-      - [ ] Tipo de precedencia -> Unidade Administrativa / Codigo estruturado -> 🔍 -> Sigla
-      - [ ] Tipo do interessado -> Fornecedor / CNPJ -> 🔍
-      - [ ] Codigo do assunto -> 🔍
-        > Objeto do contrato\\ SIAM xxx.xxxx
+	- [ ] Abrir volume de contrato no SIM - 03.15
       - [ ] Tramitar
     - [ ] Imprimir etiqueta
     - [ ] Imprimir rótulo
 		- [ ] Termo de Abertura
 - [ ] Publicação no Jornal do Municipio
 - [ ] Publicação SITE ADMIN (Somente apos publicação no JM)
-- [ ] Publicar no SIAM
-	- WinSCP
+- [ ] Publicar no SIAM com o **WinSCP**
 		- [ ] home/conan/dats/pref/siamtxt/editais
 		- [ ] Move files (sem acentos, hifen, cedilha, parentesis, maiuscula)(espaço pode)
 	- SIAM
