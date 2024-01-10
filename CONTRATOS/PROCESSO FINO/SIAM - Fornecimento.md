@@ -5,12 +5,11 @@
 - [ ] Salvar contrato na pasta do CPL
 - [ ] Juntar: fl. de autorização, declarações de atualização cadastral do TCESP, cópia do contrato ao volume de licitação.
 - [ ] Lançar no SIAM
-	- [ ] 2-4-1-2
-		- [ ] Selecionar modalidade > ENTER
-		- [ ] Data Celebrada > data da assinatura
-        	- [ ] Indice de reajuste > ponto (.)
-		- [ ] Distribuir estimado > SIM
-		- [ ] Numero do contrato
+	- [ ] 2-3-6-1-3
+- [ ] Lançar no MGC
+	- [ ] http://10.28.10.65/
+- [ ] Lançar na AUDESP pelo SIAM
+	- [ ] 7-2-3-2-1
 - [ ] Abrir volume de contrato
 	>Se tiver mais de uma empresa
 	- [ ] Fechar volume de licitação com termo
@@ -39,7 +38,7 @@
 			- f7 para incluir
 			- espaço para marcar e f7 para incluir
 			- [ ] tirar print da tela
-- [ ] Enviar contrato datado por email
-      Contratada; fiscalizadores; DMMHF; SCM
+- [ ] Enviar **contrato** e **empenho** datado por email
+      Contratada; fiscalizadores; SCM
   - [ ] (juntar email no processo)
 - [ ] Enviar via da contratada pelo correio
