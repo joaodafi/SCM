@@ -13,8 +13,7 @@
 - [ ] Abrir volume de contrato **Se tiver mais de uma empresa**
 	- [ ] Abrir volume de contrato no SIM - 03.15
 	- [ ] Tramitar
-- [ ] Enviar **contrato** e **empenho** datado por email
-      Contratada; fiscalizadores; SCM
+- [ ] Enviar **contrato** e **empenho** datado por email para Contratada; fiscalizadores; SCM
 - [ ] (juntar email no processo)
 - [ ] Enviar via da contratada pelo correio
 - [ ] Publicação no Jornal do Municipio
@@ -27,4 +26,3 @@
 		- f4 na lista de processos
 		- f7 para incluir
 		- espaço para marcar e f7 para incluir todo os arquivos marcados
-		- [ ] tirar print da tela
