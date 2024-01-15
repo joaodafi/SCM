@@ -8,7 +8,7 @@
 	- [ ] 2-4-1-2
 		- [ ] Selecionar modalidade > ENTER
 		- [ ] Data Celebrada > data da assinatura
-        	- [ ] Indice de reajuste > ponto (.)
+		- [ ] Indice de reajuste > ponto (.)
 		- [ ] Distribuir estimado > SIM
 		- [ ] Numero do contrato
 - [ ] Abrir volume de contrato 03.15 >Se tiver mais de uma empresa
