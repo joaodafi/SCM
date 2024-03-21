@@ -1,4 +1,4 @@
-###Reequilibrio financeiro
+### Reequilibrio financeiro
 
 - [ ] Solicitação da secretaria solicitante
       necessita oficio, aceite e 3 orçamentos
